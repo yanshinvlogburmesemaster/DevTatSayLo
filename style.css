@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url("cvv.jpg") no-repeat;
+    background-size:cover;
+}
+h1{
+color: green;
+border-bottom: 4px solid #000000;
+width: 80px;
+}
+.form{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    border: 2px solid #c4ff6a;
+    border-padding: 80;    
+    border-margin: 80;
+}
